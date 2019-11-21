@@ -25,5 +25,5 @@ The GitHub issues are intended for bug reports and feature requests. There are l
 keeping the list of open issues lean we can respond in a timely manner.
 
 ## License
-This SDK is distributed under the MIT License.
+This SDK is distributed under the MIT License,
 see LICENSE.txt and NOTICE.txt for more information.

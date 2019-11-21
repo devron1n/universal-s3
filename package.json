@@ -1,0 +1,74 @@
+{
+  "name": "universal-s3",
+  "version": "0.0.1",
+  "description": "Universal S3 SDK for JavaScript, available for Node.js backends",
+  "main": "lib/aws.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "buffer": "4.9.1",
+    "events": "1.1.1",
+    "ieee754": "1.1.13",
+    "jmespath": "0.15.0",
+    "querystring": "0.2.0",
+    "sax": "1.2.1",
+    "url": "0.10.3",
+    "uuid": "3.3.2",
+    "xml2js": "0.4.19"
+  },
+  "devDependencies": {
+    "@types/node": "6.0.92",
+    "browserify": "13.1.0",
+    "chai": "^3.0",
+    "codecov": "^1.0.1",
+    "coffeeify": "*",
+    "coffeescript": "^1.12.7",
+    "cucumber": "0.5.x",
+    "eslint": "^5.8.0",
+    "hash-test-vectors": "^1.3.2",
+    "insert-module-globals": "^7.0.0",
+    "istanbul": "*",
+    "jasmine": "^2.5.3",
+    "jasmine-core": "^2.5.2",
+    "json-loader": "^0.5.4",
+    "karma": "^4.1.0",
+    "karma-chrome-launcher": "2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "mocha": "^3.0.0",
+    "repl.history": "*",
+    "semver": "*",
+    "typescript": "2.0.8",
+    "uglify-js": "2.x",
+    "webpack": "^1.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devron1n/universal-s3.git"
+  },
+  "keywords": [
+    "api",
+    "amazon",
+    "aws",
+    "ceph",
+    "node",
+    "nodejs",
+    "s3",
+    "storage"
+  ],
+  "author": {
+    "name": "devron1n",
+    "url": "https://github.com/devron1n"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devron1n/universal-s3/issues"
+  },
+  "homepage": "https://github.com/devron1n/universal-s3#readme"
+}

@@ -1,0 +1,4 @@
+Universal S3 SDK for JavaScript.
+Based on standard AWS SDK for JavaScript.
+
+Developed by https://github.com/devron1n

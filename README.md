@@ -1,6 +1,5 @@
 # Universal S3 SDK for JavaScript
-Universal S3 SDK for JavaScript, available for Node.js backends. 
-Based on standard AWS SDK for JavaScript.
+Universal S3 SDK for JavaScript, available for Node.js backends.
 
 ## Installing
 The preferred way to install the SDK for Node.js is to use the
